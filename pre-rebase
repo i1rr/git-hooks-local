@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo ---REBASING IS FORBIDDEN---
+
+exit 1

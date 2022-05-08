@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo ===POST-COMMIT-HOOK-IS-SUCCESSFUL===
+
+exit 0
